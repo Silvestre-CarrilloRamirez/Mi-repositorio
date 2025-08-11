@@ -2,7 +2,7 @@
 
 Codigo que genera el RFC de una persona
 Autor: Silvestre Carrillo Ramirez
-Fecha: 31/07/2025
+Fecha: 10/08/2025
 
 *******************************************************************************/
 #include <iostream>
